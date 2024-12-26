@@ -1,0 +1,14 @@
+.one{
+ float: left;
+}
+.two{
+    float: right;
+    width:40%;
+}
+.three{
+    float:left;
+    width: 50%;
+}
+.four{
+    float: right;
+}
